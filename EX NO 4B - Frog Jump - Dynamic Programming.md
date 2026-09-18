@@ -31,8 +31,8 @@ A single integer – number of distinct ways to reach step n.
 
 /*
 Program to implement Reverse a String
-Developed by: POZHILAN V D
-Register Number: 212223240118
+Developed by: Sunil Kumar P.B.
+Register Number: 212223040213
 */
 import java.util.Scanner;
 

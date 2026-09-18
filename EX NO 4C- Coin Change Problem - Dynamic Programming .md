@@ -1,6 +1,6 @@
 
 # EX 4C Coin Change Problem - Dynamic Programming.
-## DATE:09/09/26
+## DATE:7/09/26
 ## AIM:
 To write a Java program to for given constraints.
 You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
@@ -26,8 +26,8 @@ If coin <= i, update dp[i] = min(dp[i], dp[i - coin] + 1).
 ```
 /*
 Program to implement Reverse a String
-Developed by: POZHILAN V D
-Register Number: 212223240118
+Developed by: Sunil Kumar P.B.
+Register Number: 212223040213
 */
 
 import java.util.*;
